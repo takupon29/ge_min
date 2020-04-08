@@ -1,0 +1,100 @@
+#red {
+    color: red;
+}
+#blue {
+    color: rgb(20, 89, 238);
+}
+#lightblue {
+    color: rgb(16, 221, 201);
+}
+#yellow {
+    color: rgb(236, 206, 37);
+}
+#green {
+    color: rgb(4, 230, 68);
+}
+#pink {
+    color: rgb(255, 91, 237);
+}
+#yellow_2 {
+    color: rgb(255, 217, 0);
+}
+#black {
+    color: black;
+}
+
+#twitter {
+    color: #1e90ff
+}
+#discord {
+    color: #6495ed
+}
+h2 {
+    border-bottom: 3px solid rgb(255, 217, 0);
+}
+#top {
+    text-align: center;
+    margin: 0 auto;
+}
+#back {
+    margin-top: -10px;
+    margin-right: -7px;
+    margin-left: -7px;
+    padding: 10px 20px;
+    background: rgb(255, 255, 162);
+}
+#white_box {
+    width: 1500px;
+    height: 250px;
+    padding: 10px;
+    margin: 10px;
+    color: white;
+}
+#box {
+    width: 1500px;
+    height: 500px;
+    padding: 10px;
+    margin: 10px;
+    background: #fffacd;
+    border: solid #f0e68c;
+}
+#ge_min_box {
+    width: 350px;
+    height: 200px;
+    padding: 10px;
+    margin: 20px;
+    background: #fffacd;
+    text-align: center;
+    border: solid #f0e68c;
+}
+#top_box_old {
+    width: 1877px;
+    height: 50px;
+    padding: 10px;
+    margin-left: -8px;
+    background: #fffacd;
+    border: solid #f0e68c;
+}
+#top_box {
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+    background: #fffacd;
+    border: solid #f0e68c;
+}
+.top_box_2 {
+    text-align: center;
+    margin: 0 auto;
+}
+.page a {
+    text-decoration: none;
+}
+
+#addon_box {
+    width: 1500px;
+    height: 350px;
+    padding: 10px;
+    margin: 20px;
+    background: #bdffcd;
+    border: 5px solid #245328
+}
